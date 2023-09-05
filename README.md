@@ -8,3 +8,6 @@ pip install -r requirements.txt
 ```
 
 run Performace Task.py
+
+# Warning
+Please do not run the crawler frequently, this may cause unnecessary load for the server of Shangli.
