@@ -1,5 +1,5 @@
 # ProjectCai
-A project for AP computer science principle exam, edited from a crawler script for Shangli canteen menu.
+A project for AP computer science principle exam's performance task, edited from a crawler script for Shangli canteen menu written by me.
 
 # Usage
 install packages
